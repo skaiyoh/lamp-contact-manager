@@ -1,0 +1,1 @@
+# lamp-contact-manager
